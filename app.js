@@ -14,5 +14,8 @@ const pokemonOne = {
  * 여기서의 this는 객체 리터럴의 식별자인 객체 pokemonOne이다.
  * 그러므로 아래의 메서드 호출은 정상적으로 '피카츄'가 출력된다.
  */
-
 pokemonOne.pokemonOne();
+// git add, commit, push
+
+
+dsfasdfasdfasdfasdfasdf
